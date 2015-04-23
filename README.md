@@ -5,4 +5,4 @@ This project is showing  my creative skills using Adobe Photoshop. Part of my AC
 I am required to produce five pieces of Art Movement, with a little rationale to go with my finish pieces of art movements. 
 These art movements include Impressionism. Cubism, Surrealism, Futurism and Pop Art. Also I have chosen to do an essay on my 
 chosen art movement which is Pop Art.The website will feature two posters that I have designed in regards to my chosen 
-Art Movement. Full project will be launching end of March 2015. 
+Art Movement.  
