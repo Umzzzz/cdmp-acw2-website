@@ -1,0 +1,130 @@
+@charset "UTF-8";
+/* CSS Document */
+
+/*
+Body - standard setup. You may want to change the color/background color.
+*/
+
+body
+		{
+		font-family: 'Lucida Grande', 'Lucida Sans', Arial, sans- serif;
+		font-size: 14px;
+		line-height: 1.6;
+		background-color: #fff;
+		color: #000000;
+		margin: 0;
+		}
+
+header img
+{
+	text-align: center;
+	padding: 4px;
+}
+		
+#content img
+{
+	border-style: solid;
+	border-color: #333;
+	border-width: 2px;
+}
+
+#container
+{
+width: 868px;
+margin: 0 auto;
+background-color:#000000;
+}
+
+nav
+{
+text-align:center;
+}
+
+#content
+{
+padding:10px 20px;
+background-color:#FFFFFF;
+}
+
+footer
+{
+	text-align:center;
+	padding: 2px;
+	background-color:#fff;
+}
+
+/*
+Links - You may need to change the link colours (all states) if you change the background colour.
+*/
+
+a
+{
+color: #333;
+}
+
+a:link
+{
+color: #333;
+}
+
+a:visited
+{
+color: #666;
+
+}
+
+a:hover
+{
+color: #CC0;
+background-color: #666;
+}
+
+a:active
+{
+color: #CF3;
+}
+
+/*
+Navigation - from http://css.maxdesign.com.au/listamatic/horizontal02.htm
+*/
+
+ul#navlist
+{
+margin-left: 0;
+padding-left: 0;
+white-space: nowrap;
+}
+
+#navlist li
+{
+display: inline;
+list-style-type: none;
+}
+
+#navlist a { padding: 3px 10px; }
+
+#navlist a:link, #navlist a:visited
+{
+color: #fff;
+background-color: #000;
+text-decoration: none;
+}
+
+#navlist a:hover
+{
+color: #fff;
+background-color: #E72619;
+text-decoration: none;
+}
+
+#current
+{
+	border-right-color: #0031B3;
+	border-left-color: #0031B3;
+	border-right-style: solid;
+	border-left-style: solid;
+	border-right-width: 5px;
+	border-left-width: 5px;
+}
+
+
